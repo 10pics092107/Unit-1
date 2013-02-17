@@ -1,0 +1,6 @@
+geolocation : True  medium_screen_size : True  flash_support : True  url : www.QlvWuEKyNLcwn.edu  small_screen_size : False  local_storage : False  media_queries : True  large_screen_size : True  camera : True  app_cache : True  
+geolocation : False  medium_screen_size : True  flash_support : False  url : www.dNhSJHKIRcV.net  small_screen_size : False  local_storage : False  media_queries : True  large_screen_size : True  camera : True  app_cache : True  
+geolocation : False  medium_screen_size : False  flash_support : True  url : www.xJWYSbXiegTduv.org  small_screen_size : False  local_storage : True  media_queries : False  large_screen_size : True  camera : True  app_cache : True  
+geolocation : False  medium_screen_size : True  flash_support : True  url : www.hEtsgxNTGymoKDZ.com  small_screen_size : True  local_storage : True  media_queries : True  large_screen_size : True  camera : True  app_cache : True  
+geolocation : False  medium_screen_size : False  flash_support : True  url : www.WovdfXNYCT.com  small_screen_size : True  local_storage : True  media_queries : True  large_screen_size : True  camera : True  app_cache : False  
+geolocation : True  medium_screen_size : True  flash_support : True  url : www.JjhBuOWifM.com  small_screen_size : True  local_storage : True  media_queries : True  large_screen_size : True  camera : False  app_cache : True  

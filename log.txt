@@ -1,0 +1,67 @@
+The following are the cases tested
+apart from the queries given
+->negative input
+->if no_enteries is outside range msg is displayed to enter again
+->true,True,False,false are all treated the same way
+->if no query is entered the program gracefully exits
+
+C:\Users\iWindows\Desktop\Python_Project\Unit_1>python main.py
+specify the number of entries (range 1-100) in the database
+-4
+invalid no_entries -4
+enter again
+
+specify the number of entries (range 1-100) in the database
+6
+Enter the query :
+
+url:media_queries-true
+result for the query is :
+
+[{'url': 'www.QlvWuEKyNLcwn.edu'}, {'url': 'www.dNhSJHKIRcV.net'}, {'url': 'www.hEtsgxNTGymoKDZ.com'}, {'url
+': 'www.WovdfXNYCT.com'}, {'url': 'www.JjhBuOWifM.com'}]
+do you want to continue (y/n) :
+y
+Enter the query :
+
+www.JjhBuOWifM.com:screen_size-true
+result for the query is :
+
+{'large_screen_size': True, 'medium_screen_size': True, 'small_screen_size': True}
+do you want to continue (y/n) :
+y
+Enter the query :
+
+www.dNhSJHKIRcV.net:features-True
+result for the query is :
+
+{'media_queries': True, 'large_screen_size': True, 'medium_screen_size': True, 'camera': True, 'app_cache':
+True}
+do you want to continue (y/n) :
+y
+Enter the query :
+
+url
+result for the query is :
+
+[{'url': 'www.QlvWuEKyNLcwn.edu'}, {'url': 'www.dNhSJHKIRcV.net'}, {'url': 'www.xJWYSbXiegTduv.org'}, {'url'
+: 'www.hEtsgxNTGymoKDZ.com'}, {'url': 'www.WovdfXNYCT.com'}, {'url': 'www.JjhBuOWifM.com'}]
+do you want to continue (y/n) :
+y
+Enter the query :
+
+camara
+check your query no such field in table 'camara'
+result for the query is :
+
+None
+do you want to continue (y/n) :
+y
+Enter the query :
+
+
+no query asked
+exiting...
+
+
+C:\Users\iWindows\Desktop\Python_Project\Unit_1>
