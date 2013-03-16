@@ -4,6 +4,6 @@ Sample query
  query would be
  url,geolocation:media_queries-true,camera-false 
 2)To find the features supported by a url
- www.abc.com:features-true
+features:url-www.abc.com [,features-true]
 General query format  
 <requirement1,requirement2,..>:<constraint1,constraint2,...>
